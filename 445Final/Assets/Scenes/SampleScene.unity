@@ -472,5 +472,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cartoon_Lowpoly_City_Pack
       objectReference: {fileID: 0}
+    - target: {fileID: 4237024173669508397, guid: b3cfbc3ee49874bc7aded6300c3a5a1a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237024173669508397, guid: b3cfbc3ee49874bc7aded6300c3a5a1a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.132
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3cfbc3ee49874bc7aded6300c3a5a1a, type: 3}
